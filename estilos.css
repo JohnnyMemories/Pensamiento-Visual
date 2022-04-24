@@ -7,6 +7,7 @@
 .destacado{
     font-size: 30px;
     margin-left: 350px;
+    color: black;
 }
 
 .subtitulo{
@@ -15,7 +16,7 @@
 .subti{
     margin-left: 273px
 }
-.imagen1{
+#imagen1{
     float: right;
     
 }
@@ -32,7 +33,7 @@ body{
     background-color: azure;
 }
 
-.parr1{
+#parr1{
     background-color: antiquewhite;
     position: absolute;
     top: 300px;
